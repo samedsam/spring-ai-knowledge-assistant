@@ -1,4 +1,4 @@
-package com.smartgnt.knowledgeassistant.web;
+package com.smartgnt.knowledgeassistant.web.health;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
